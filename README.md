@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Kkaguamba
-- 👀 I’m interested in learning to be a pro coder
-- 🌱 I’m currently learning information technology 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in becoming a top developer
 - 📫 How to reach me through my email (kkaguamba@gmail.com)
 
 <!---
