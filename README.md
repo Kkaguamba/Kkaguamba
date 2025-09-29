@@ -1,6 +1,4 @@
 # 💫 About Me:
-              🔧 Debugging life, one commit at a time 
-              
               👨‍💻 Software Developer | 💡 Problem Solver | 🚀 Tech Enthusiast 
               ⚡ Passionate about coding, clean architecture & automation 
               🌐 Exploring Web Dev | ☁️ Cloud | 🔒 Cybersecurity 
